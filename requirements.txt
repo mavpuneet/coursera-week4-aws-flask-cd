@@ -1,0 +1,4 @@
+pytest
+pylint
+awsebcli
+Flask==2.1.3
