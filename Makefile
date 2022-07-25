@@ -10,6 +10,6 @@ lint:
 
 deploy:
 	echo "Deploying app"
-	eb deploy coursera-week4-aws-flask-cd
+	eb deploy coursera-week4-aws-flask-cd-env2
 
 all: install lint test 
