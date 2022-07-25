@@ -9,7 +9,7 @@ environment-defaults:
 global:
   application_name: coursera-week4-aws-flask-cd
   branch: null
-  default_ec2_keyname: null
+  default_ec2_keyname: courseraweek4clouddev
   default_platform: Python 3.7
   default_region: us-west-1
   include_git_submodules: true
