@@ -1,6 +1,6 @@
 branch-defaults:
   main:
-    environment: coursera-week4-aws-flask-cd-env1
+    environment: coursera-week4-aws-flask-cd-env2
     group_suffix: null
 global:
   application_name: coursera-week4-aws-flask-cd
